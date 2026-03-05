@@ -16820,5 +16820,18 @@
     "start_date_local": "2026-03-03T16:56:16Z",
     "type": "IceSkate",
     "year": 2026
+  },
+  {
+    "date": "2026-03-04",
+    "distance": 10363.7,
+    "elevation_gain": 14.0,
+    "id": "17603756818",
+    "moving_time": 3232.0,
+    "name": "3x8 min threshold",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-04T11:59:39Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
