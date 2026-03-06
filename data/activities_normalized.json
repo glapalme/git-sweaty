@@ -16833,5 +16833,18 @@
     "start_date_local": "2026-03-04T11:59:39Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17616115538",
+    "moving_time": 2572.0,
+    "name": "Entra\u00eenement aux poids le midi",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-05T12:30:03Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
