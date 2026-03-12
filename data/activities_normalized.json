@@ -16898,5 +16898,18 @@
     "start_date_local": "2026-03-10T12:16:50Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17692163499",
+    "moving_time": 2361.0,
+    "name": "Entra\u00eenement aux poids en soir\u00e9e",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-11T20:50:42Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
