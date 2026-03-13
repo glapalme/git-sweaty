@@ -16911,5 +16911,31 @@
     "start_date_local": "2026-03-11T20:50:42Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17699020581",
+    "moving_time": 2181.0,
+    "name": "Entra\u00eenement aux poids le midi",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-12T12:40:19Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-12",
+    "distance": 16037.0,
+    "elevation_gain": 20.0,
+    "id": "17702809255",
+    "moving_time": 5339.0,
+    "name": "16km progressive long run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-12T18:01:50Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
