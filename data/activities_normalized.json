@@ -16950,5 +16950,18 @@
     "start_date_local": "2026-03-14T21:45:07Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 10020.1,
+    "elevation_gain": 15.0,
+    "id": "17735152458",
+    "moving_time": 3474.0,
+    "name": "10 km easy",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-15T13:11:11Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
