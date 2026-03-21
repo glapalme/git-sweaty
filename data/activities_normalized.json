@@ -17028,5 +17028,18 @@
     "start_date_local": "2026-03-19T18:46:02Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17797055327",
+    "moving_time": 2927.0,
+    "name": "Yoga chaud",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-03-20T19:31:32Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
