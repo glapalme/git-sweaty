@@ -17067,5 +17067,31 @@
     "start_date_local": "2026-03-23T12:14:46Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17848394760",
+    "moving_time": 2664.0,
+    "name": "Stronger Upper Body with Runna \u2705",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-24T20:48:37Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17848408442",
+    "moving_time": 2665.0,
+    "name": "Entra\u00eenement aux poids en soir\u00e9e",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-24T20:48:31Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
