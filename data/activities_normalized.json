@@ -17132,5 +17132,31 @@
     "start_date_local": "2026-03-27T14:18:10Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17907742401",
+    "moving_time": 2525.0,
+    "name": "Loading Up with Runna \u2705",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-29T20:49:47Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17907783908",
+    "moving_time": 2509.0,
+    "name": "Entra\u00eenement aux poids en soir\u00e9e",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-29T20:50:11Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
