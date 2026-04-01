@@ -17171,5 +17171,31 @@
     "start_date_local": "2026-03-30T12:26:45Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17927769619",
+    "moving_time": 2424.0,
+    "name": "Upper Body Strength with Runna \u2705",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-31T12:43:34Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17932364879",
+    "moving_time": 1233.0,
+    "name": "Yoga en soir\u00e9e",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-03-31T20:43:18Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
