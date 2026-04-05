@@ -9274,6 +9274,13 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "hour": 13,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20795,6 +20802,15 @@
           "distance": 12234.3,
           "elevation_gain": 18.0,
           "moving_time": 3772.0
+        },
+        "2026-04-04": {
+          "activity_ids": [
+            "17979531446"
+          ],
+          "count": 1,
+          "distance": 19012.6,
+          "elevation_gain": 91.0,
+          "moving_time": 6428.0
         }
       },
       "Walk": {
@@ -21149,7 +21165,7 @@
       }
     }
   },
-  "generated_at": "2026-04-04T15:11:50.110249+00:00",
+  "generated_at": "2026-04-05T15:13:43.231920+00:00",
   "other_bucket": "OtherSports",
   "repo": "glapalme/git-sweaty",
   "source": "strava",

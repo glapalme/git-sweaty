@@ -17223,5 +17223,18 @@
     "start_date_local": "2026-04-03T12:24:29Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 19012.6,
+    "elevation_gain": 91.0,
+    "id": "17979531446",
+    "moving_time": 6428.0,
+    "name": "Longue course",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-04T13:47:17Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
