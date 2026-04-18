@@ -17353,5 +17353,18 @@
     "start_date_local": "2026-04-16T18:34:45Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 11576.5,
+    "elevation_gain": 8.0,
+    "id": "18148046999",
+    "moving_time": 3637.0,
+    "name": "Course \u00e0 pied le midi",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-17T12:44:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
