@@ -17366,5 +17366,18 @@
     "start_date_local": "2026-04-17T12:44:42Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 21108.9,
+    "elevation_gain": 172.0,
+    "id": "18162879030",
+    "moving_time": 7146.0,
+    "name": "Long run sous le vent \ud83c\udf2c\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-18T13:19:46Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
