@@ -9372,6 +9372,20 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-04-22",
+      "hour": 12,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-22",
+      "hour": 21,
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20974,6 +20988,15 @@
           "distance": 7504.2,
           "elevation_gain": 16.0,
           "moving_time": 2572.0
+        },
+        "2026-04-22": {
+          "activity_ids": [
+            "18215349846"
+          ],
+          "count": 1,
+          "distance": 11006.2,
+          "elevation_gain": 13.0,
+          "moving_time": 3792.0
         }
       },
       "Walk": {
@@ -21369,11 +21392,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1804.0
+        },
+        "2026-04-22": {
+          "activity_ids": [
+            "18220117899"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2304.0
         }
       }
     }
   },
-  "generated_at": "2026-04-22T15:32:56.617901+00:00",
+  "generated_at": "2026-04-23T15:40:00.139813+00:00",
   "other_bucket": "OtherSports",
   "repo": "glapalme/git-sweaty",
   "source": "strava",
