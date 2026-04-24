@@ -17431,5 +17431,18 @@
     "start_date_local": "2026-04-22T21:00:37Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 7735.1,
+    "elevation_gain": 4.0,
+    "id": "18232487121",
+    "moving_time": 2283.0,
+    "name": "Course \u00e0 pied en soir\u00e9e",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-23T18:38:55Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
