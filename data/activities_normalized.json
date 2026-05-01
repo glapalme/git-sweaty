@@ -17483,5 +17483,18 @@
     "start_date_local": "2026-04-28T11:50:27Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 5011.9,
+    "elevation_gain": 2.0,
+    "id": "18324906018",
+    "moving_time": 1787.0,
+    "name": "Course \u00e0 pied en soir\u00e9e",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-30T18:18:29Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
