@@ -17535,5 +17535,18 @@
     "start_date_local": "2026-05-03T19:13:24Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 10006.9,
+    "elevation_gain": 60.0,
+    "id": "18388304539",
+    "moving_time": 3605.0,
+    "name": "Course \u00e0 pied le midi",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-05T12:20:06Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
