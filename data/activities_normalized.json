@@ -17548,5 +17548,18 @@
     "start_date_local": "2026-05-05T12:20:06Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 11007.6,
+    "elevation_gain": 15.0,
+    "id": "18429324801",
+    "moving_time": 3381.0,
+    "name": "Not easy run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-08T14:10:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
