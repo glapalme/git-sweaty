@@ -17561,5 +17561,31 @@
     "start_date_local": "2026-05-08T14:10:35Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-11",
+    "distance": 10007.5,
+    "elevation_gain": 7.0,
+    "id": "18466465288",
+    "moving_time": 3279.0,
+    "name": "Course \u00e0 pied le midi",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-11T12:26:48Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18478564962",
+    "moving_time": 2400.0,
+    "name": "Night Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-05-11T21:30:00Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
