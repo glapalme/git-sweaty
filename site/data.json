@@ -9470,6 +9470,20 @@
       "subtype": "Yoga",
       "type": "Yoga",
       "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 12,
+      "subtype": "Workout",
+      "type": "Workout",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 16,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21182,6 +21196,15 @@
           "distance": 4004.6,
           "elevation_gain": 6.0,
           "moving_time": 2879.0
+        },
+        "2026-05-12": {
+          "activity_ids": [
+            "18482871153"
+          ],
+          "count": 1,
+          "distance": 2221.3,
+          "elevation_gain": 4.0,
+          "moving_time": 1605.0
         }
       },
       "WeightTraining": {
@@ -21492,6 +21515,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1899.0
+        },
+        "2026-05-12": {
+          "activity_ids": [
+            "18479638466"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2479.0
         }
       },
       "Yoga": {
@@ -21597,7 +21629,7 @@
       }
     }
   },
-  "generated_at": "2026-05-12T15:53:19.754374+00:00",
+  "generated_at": "2026-05-13T15:56:06.494620+00:00",
   "other_bucket": "OtherSports",
   "repo": "glapalme/git-sweaty",
   "source": "strava",
