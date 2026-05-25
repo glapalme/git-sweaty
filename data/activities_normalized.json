@@ -17711,10 +17711,23 @@
     "elevation_gain": 0.0,
     "id": "18635036496",
     "moving_time": 246.0,
-    "name": "Course \u00e0 pied le matin",
+    "name": "1km BougeBouge parc Fr\u00e9d\u00e9ric-Back",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-05-24T09:00:06Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 21122.2,
+    "elevation_gain": 188.0,
+    "id": "18637029931",
+    "moving_time": 6033.0,
+    "name": "Demi-marathon BougeBouge parc Fr\u00e9d\u00e9ric-Back",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-24T09:50:15Z",
     "type": "Run",
     "year": 2026
   }
