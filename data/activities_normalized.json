@@ -17886,5 +17886,18 @@
     "start_date_local": "2026-06-10T19:17:23Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18885561325",
+    "moving_time": 1801.0,
+    "name": "Night Yoga \ud83e\uddd8\u200d\u2642\ufe0f",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-06-11T21:36:28Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
