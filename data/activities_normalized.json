@@ -18016,5 +18016,18 @@
     "start_date_local": "2026-06-22T12:23:17Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19039623128",
+    "moving_time": 5348.0,
+    "name": "Lower Body Strength Session with Runna \u2705",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-23T13:24:18Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
