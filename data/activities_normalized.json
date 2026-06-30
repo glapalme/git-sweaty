@@ -18094,5 +18094,18 @@
     "start_date_local": "2026-06-28T10:45:15Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19118045610",
+    "moving_time": 2299.0,
+    "name": "Legs & Core Strength with Runna \u2705",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-06-29T21:32:11Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
