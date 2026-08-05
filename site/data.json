@@ -9939,6 +9939,13 @@
       "subtype": "Yoga",
       "type": "Yoga",
       "year": 2026
+    },
+    {
+      "date": "2026-08-04",
+      "hour": 20,
+      "subtype": "Workout",
+      "type": "Workout",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -22502,6 +22509,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2608.0
+        },
+        "2026-08-04": {
+          "activity_ids": [
+            "19605827933"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2465.0
         }
       },
       "Yoga": {
@@ -22661,7 +22677,7 @@
       }
     }
   },
-  "generated_at": "2026-08-04T15:50:22.078591+00:00",
+  "generated_at": "2026-08-05T15:46:34.155188+00:00",
   "other_bucket": "OtherSports",
   "repo": "glapalme/git-sweaty",
   "source": "strava",
