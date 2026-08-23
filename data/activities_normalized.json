@@ -18679,5 +18679,18 @@
     "start_date_local": "2026-08-21T17:34:43Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 19014.5,
+    "elevation_gain": 13.0,
+    "id": "19858016019",
+    "moving_time": 6428.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-22T19:05:54Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
