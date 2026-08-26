@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T15:18:52.195790+00:00",
+  "generated_at": "2026-08-26T15:49:25.802106+00:00",
   "years": {
     "2017": {
       "Run": {
@@ -11129,6 +11129,26 @@
           "distance": 1334.2,
           "elevation_gain": 0.0,
           "moving_time": 1042.0
+        }
+      },
+      "Pickleball": {
+        "2026-08-25": {
+          "activity_ids": [
+            "19897784833"
+          ],
+          "count": 1,
+          "distance": 626.8,
+          "elevation_gain": 0.0,
+          "moving_time": 1083.0
+        },
+        "2026-08-26": {
+          "activity_ids": [
+            "19909529491"
+          ],
+          "count": 1,
+          "distance": 1305.1,
+          "elevation_gain": 0.0,
+          "moving_time": 2887.0
         }
       },
       "Run": {

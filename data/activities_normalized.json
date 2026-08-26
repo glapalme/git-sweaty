@@ -18705,5 +18705,31 @@
     "start_date_local": "2026-08-23T11:20:15Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 626.8,
+    "elevation_gain": 0.0,
+    "id": "19897784833",
+    "moving_time": 1083.0,
+    "name": "Afternoon Pickleball",
+    "raw_activity_type": "Workout",
+    "raw_type": "Pickleball",
+    "start_date_local": "2026-08-25T14:27:14Z",
+    "type": "Pickleball",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 1305.1,
+    "elevation_gain": 0.0,
+    "id": "19909529491",
+    "moving_time": 2887.0,
+    "name": "Morning Pickleball",
+    "raw_activity_type": "Workout",
+    "raw_type": "Pickleball",
+    "start_date_local": "2026-08-26T10:17:26Z",
+    "type": "Pickleball",
+    "year": 2026
   }
 ]
