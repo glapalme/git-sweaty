@@ -18731,5 +18731,18 @@
     "start_date_local": "2026-08-26T10:17:26Z",
     "type": "Pickleball",
     "year": 2026
+  },
+  {
+    "date": "2026-08-28",
+    "distance": 16004.2,
+    "elevation_gain": 44.0,
+    "id": "19939104529",
+    "moving_time": 5542.0,
+    "name": "Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-28T12:13:06Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
