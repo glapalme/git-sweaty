@@ -18835,5 +18835,31 @@
     "start_date_local": "2026-09-06T15:14:24Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-08",
+    "distance": 11003.7,
+    "elevation_gain": 24.0,
+    "id": "20091022108",
+    "moving_time": 3736.0,
+    "name": "Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-08T12:05:34Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20096665300",
+    "moving_time": 2945.0,
+    "name": "Legs & Core Supersets with Runna \u2705",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-08T20:34:47Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
