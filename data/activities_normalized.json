@@ -19030,5 +19030,18 @@
     "start_date_local": "2026-09-21T07:36:20Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-09-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20270025081",
+    "moving_time": 2363.0,
+    "name": "Lower Body Endurance Workout with Runna \u2705",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-09-21T12:22:35Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
