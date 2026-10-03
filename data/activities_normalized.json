@@ -19160,5 +19160,18 @@
     "start_date_local": "2026-09-30T18:20:34Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-03",
+    "distance": 1325.9,
+    "elevation_gain": 2.0,
+    "id": "20433621426",
+    "moving_time": 523.0,
+    "name": "Course RBC pour les enfants CHU Ste-Justine",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-03T09:30:13Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
