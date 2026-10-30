@@ -19420,5 +19420,18 @@
     "start_date_local": "2026-10-28T12:25:18Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20785407031",
+    "moving_time": 2881.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-29T19:20:40Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
