@@ -19537,5 +19537,18 @@
     "start_date_local": "2026-11-08T15:08:46Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20936575887",
+    "moving_time": 3402.0,
+    "name": "Lunch Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-11-10T12:25:11Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
